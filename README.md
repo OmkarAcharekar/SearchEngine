@@ -42,16 +42,16 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/OmkarAcharekar/SearchEngine
+A:\CompetativeVisual\Search_Engine> git clone https://github.com/OmkarAcharekar/SearchEngine
 
 # Go into the repository
-$ cd SearchEngine
+A:\CompetativeVisual\Search_Engine> cd SearchEngine
 
 # Compile Program
-$  g++ search_engine_main.cpp -o search_engine_main
+A:\CompetativeVisual\Search_Engine> g++ search_engine_main.cpp -o search_engine_main
 
 # Run Program
-$ .\search_engine_main.
+A:\CompetativeVisual\Search_Engine> .\search_engine_main.
 
 ```
 ## Demo
