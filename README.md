@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">Project mimics the functionality of a Web Browsers Search Engine</h4>
+<h4 align="center">Project Mimics the Functionality of a Web Browsers Search Engine</h4>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![React_Native](https://img.shields.io/badge/react%20native-v0.66-orange)
