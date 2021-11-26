@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">An  Real Time  End-To-End  Encrypted Messaging  Application</h4>
+<h4 align="center">Project mimics the functionality of a Web Browsers Search Engine</h4>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![React_Native](https://img.shields.io/badge/react%20native-v0.66-orange)
@@ -24,65 +24,47 @@
   <a href="#license">License</a>
 </p>
 
+## About
 
+ Implemented Splay Tee data structure , to access recent data efficiently. Standard Implementation using structures, nodes and classes have been used to implement this project.Splay Trees operations such as insertion, look-up and removal are performed in O(log(n)) amortized time.
 
 ## Key Features
 
-* Encryption and Security
-  - Messages are encrypted on the sender system or device, and only the intended recipient can decrypt it.
-* Registration page and contact integration
-  - App require users to sign in with a phone number. It sends an SMS confirmation code for security reasons. After registering, users  can login in their Account.
-  
-* Offers both private and group chats. 
-  -  A group chat option lets users create a group and chat with multiple people at the same time.
-  
-* Push notification
-  -  It keep users active within the app and inform them when new messages have arrived or someone comes online.
-  
-* Messages
-  - Users can send various type of messages like Audio Message,Text Messages ,Images and can also see user online status.
-
+* We can Access our search history
+* We can know the most frequently browsed site by us
+* We can know the most recently browsed site.
+* we get suggestion based on our previous searches
+* We can delete our browser history.
 
 ## How To Use
 
-To clone and run this application, you should have [Git](https://git-scm.com/downloads), [React Native & Expo environment set up](https://expo.dev/), [AWS Account and AWS CLI setup](https://aws.amazon.com/console/),[Node.js](https://nodejs.org/en/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To clone and run this application, you should have [Git](https://git-scm.com/downloads), [Mingw C++ Compiler](https://sourceforge.net/projects/mingw/)installed on your computer. If you don't have Mingw C++ Compiler see installation [here](https://medium.com/@ssaaziondebeat/how-to-use-and-installing-gcc-or-mingw-compiler-dcc9c503e217)
+
+From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/OmkarAcharekar/Signal_Clone.git
+$ git clone https://github.com/OmkarAcharekar/SearchEngine
 
 # Go into the repository
-$ cd Signal_Clone
+$ cd SearchEngine
 
-# Install dependencies
-$ npm install
+# Compile Program
+$  g++ search_engine_main.cpp -o search_engine_main
 
-# Init amplify project and push it to the cloud 
-$ amplify init 
-$ amplify push
-
-# Run the app
-$ npm start
-```
+# Run Program
+$ .\search_engine_main
 
 
 
-
-## Download
-
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of chatValve for android and ios.
+## Demo
 
 
-## Credits
 
-This software uses the following :
 
-- [React Native](http://electron.atom.io/)
-- [Expo](http://showdownjs.github.io/showdown/)
-- [Node.js](https://nodejs.org/)
-- [TypeScript](https://github.com/chjj/marked)
-- [Aws Amplify](http://codemirror.net/)
-- Icons are taken from [here](https://icons.expo.fyi/)
+
+
+
 
 
 
