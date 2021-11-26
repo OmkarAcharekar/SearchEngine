@@ -1,8 +1,6 @@
 <h1 align="center">
-  <br>
-  <p>Search Engine</p>
   <br style="font-size:300%;">
-   ChatValve
+  <p>Search Engine</p>
   <br>
 </h1>
 
@@ -26,7 +24,7 @@
 
 ## About
 
- Implemented Splay Tee data structure , to access recent data efficiently. Standard Implementation using structures, nodes and classes have been used to implement this project.Splay Trees operations such as insertion, look-up and removal are performed in O(log(n)) amortized time.
+ Implemented Splay Tree data structure , to access recent Data Efficiently. Standard Implementation using structures, nodes and classes have been used to implement this project.Splay Trees operations such as insertion, look-up and removal are performed in O(log(n)) amortized time.
 
 ## Key Features
 
@@ -38,7 +36,7 @@
 
 ## How To Use
 
-To clone and run this application, you should have [Git](https://git-scm.com/downloads), [Mingw C++ Compiler](https://sourceforge.net/projects/mingw/)installed on your computer. If you don't have Mingw C++ Compiler see installation [here](https://medium.com/@ssaaziondebeat/how-to-use-and-installing-gcc-or-mingw-compiler-dcc9c503e217)
+To clone and run this application, you should have [Git](https://git-scm.com/downloads), [Mingw C++ Compiler](https://sourceforge.net/projects/mingw/) installed on your computer. If you don't have Mingw C++ Compiler see installation [here](https://medium.com/@ssaaziondebeat/how-to-use-and-installing-gcc-or-mingw-compiler-dcc9c503e217)
 
 From your command line:
 
