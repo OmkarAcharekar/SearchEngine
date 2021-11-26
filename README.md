@@ -51,13 +51,10 @@ $ cd SearchEngine
 $  g++ search_engine_main.cpp -o search_engine_main
 
 # Run Program
-$ .\search_engine_main
+$ .\search_engine_main.
 
-
-
-## How To Use
-
-
+```
+## Demo
 
 ```bash
 
@@ -500,9 +497,7 @@ Enter your option: 9
 Browser History cleared!
 
 THANK YOU! VISIT LATER TO CHECK THE SEARCH HISTORY! :)
-
-
-
+```
 ## You may also like...
 
 - [Netflix](https://github.com/amitmerchant1990/pomolectron) - A Netflix clone
