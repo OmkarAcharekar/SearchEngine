@@ -504,9 +504,6 @@ THANK YOU! VISIT LATER TO CHECK THE SEARCH HISTORY! :)
 - [Air Sense](https://github.com/amitmerchant1990/correo) - Air Quality Predictor and Weather Application
 
 
-## License
-
-MIT
 
 ---
 
